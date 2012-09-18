@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Kowy Maker - Editor - Core
+Bundle-SymbolicName: com.kowymaker.editor.plugins.core;singleton:=true
+Bundle-Version: 0.1.0.qualifier
+Bundle-Activator: com.kowymaker.editor.plugins.core.Activator
+Bundle-Vendor: Kowy Maker
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-ActivationPolicy: lazy
